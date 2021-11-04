@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BlakeDouglas
+- 👀 I’m interested in software engineering and cybersecurity
+- 🌱 I’m currently learning secure coding methods and the advantages of using different data algorithms to produce the most time and space efficient solutions to software problems.
+- 📫 You can reach me at bdouglas928@gmail.com
